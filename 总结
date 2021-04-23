@@ -143,7 +143,11 @@
                                               
                                               
                                               
-                                                     #Python
+                                                 
+                                                 
+                                             非递归写法    
+                                                 
+                                                 #Python
                                                      
                                        def DFS(self, tree): 
                                        
